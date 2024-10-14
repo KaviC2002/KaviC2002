@@ -1,16 +1,25 @@
-## Hi there 👋
+**👋 Hi there! Welcome to my GitHub profile.**
 
-<!--
-**KaviC2002/KaviC2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I studied Computer Science at the University of Auckland and am currently in my last semester before graduating.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm currently working on:
+- A podcast library web app
+- Developing my portfolio website
+- An AI-driven predator identification web application
+
+  
+📚 I'm currently learning:
+- Advanced algorithms and data structures
+- API integration for web apps
+- User experience design best practices
+
+  
+💻 My most proficient languages are:
+Python
+Java
+HTML/CSS
+JavaScript
+
+
+**Feel free to explore my repositories and connect with me!**
